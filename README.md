@@ -18,10 +18,9 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado Node.js y npm en
 ### Pasos para la Instalación
 
 - **Clonar el Repositorio:** Clona el repositorio del proyecto desde GitHub en tu máquina local utilizando el siguiente comando en tu terminal: git clone https://github.com/lumisof/trackerGastosTs.git
-- **Instalar Dependencias:** Accede al directorio del proyecto e instala las dependencias necesarias ejecutando el siguiente comando: cd trackerGastosTs npm install
-- **Compilar el Código TypeScript:** Ejecutar el comando: npm run dev
-- **Acceder a la Aplicación:** Desde la carpeta clonada, abre el archivo index.html
-
+- **Instalar Dependencias:** Accede al directorio del proyecto e instala las dependencias necesarias ejecutando en la terminal el comando:  npm install
+- **Iniciar un servidor de desarrollo:** Ejecutar el comando: npm run dev
+- **Acceder a la Aplicación:** Desde [http://localhost:5173/]
 ### Funcionalidades requeridas:
 
 - **Registro de Gastos:** Permitir al usuario registrar nuevos gastos ingresando el nombre del gasto y su respectivo monto.
